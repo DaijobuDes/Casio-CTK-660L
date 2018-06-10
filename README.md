@@ -20,5 +20,3 @@ So have fun using this soundfont.
 
 Oh wait, I think I will include some other instruments if I'm not busy irl. :3
 
-[X] Piano
-[ ] Some other instruments
