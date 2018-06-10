@@ -6,10 +6,10 @@ If you want to publish it on your website, you can embed the page through an IFR
 Please don't implement these samples in your personal soundfonts.
 
 # Features
-This is sampled from a CTK-660L
-High quality samples, WAV format, 16-bit, 1536kbps
-In sf2 format
-Samples also included
+This is sampled from a CTK-660L.
+High quality samples, WAV format, 16-bit, 1536kbps.
+In sf2 format.
+Samples also included.
 
 # Why is this on GitHub?
 I placed this in here so that anyone can use this soundfont.
